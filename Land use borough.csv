@@ -1,0 +1,421 @@
+Area Code,Local Authority Name,Area type,Area_m2,Percent
+00AA,City of London,Domestic Buildings,253,7.6
+00AB,Barking and Dagenham,Domestic Buildings,"3,044",8.2
+00AC,Barnet,Domestic Buildings,"7,203",8.3
+00AD,Bexley,Domestic Buildings,"5,003",7
+00AE,Brent,Domestic Buildings,"5,018",11.6
+00AF,Bromley,Domestic Buildings,"8,041",5.4
+00AG,Camden,Domestic Buildings,"2,668",12.2
+00AH,Croydon,Domestic Buildings,"7,590",8.8
+00AJ,Ealing,Domestic Buildings,"5,562",10
+00AK,Enfield,Domestic Buildings,"5,976",7.3
+00AL,Greenwich,Domestic Buildings,"4,087",8.5
+00AM,Hackney,Domestic Buildings,"2,515",13.2
+00AN,Hammersmith and Fulham,Domestic Buildings,"2,514",14.3
+00AP,Haringey,Domestic Buildings,"4,217",14.3
+00AQ,Harrow,Domestic Buildings,"4,671",9.3
+00AR,Havering,Domestic Buildings,"5,809",5.2
+00AS,Hillingdon,Domestic Buildings,"5,740",5
+00AT,Hounslow,Domestic Buildings,"4,199",7.4
+00AU,Islington,Domestic Buildings,"2,259",15.2
+00AW,Kensington and Chelsea,Domestic Buildings,"2,374",19.2
+00AX,Kingston upon Thames,Domestic Buildings,"3,357",9
+00AY,Lambeth,Domestic Buildings,"4,163",15.4
+00AZ,Lewisham,Domestic Buildings,"4,521",12.8
+00BA,Merton,Domestic Buildings,"3,767",10
+00BB,Newham,Domestic Buildings,"4,120",11.2
+00BC,Redbridge,Domestic Buildings,"5,207",9.2
+00BD,Richmond upon Thames,Domestic Buildings,"4,106",7
+00BE,Southwark,Domestic Buildings,"3,252",11.1
+00BF,Sutton,Domestic Buildings,"4,083",9.3
+00BG,Tower Hamlets,Domestic Buildings,"1,843",7.5
+00BH,Waltham Forest,Domestic Buildings,"4,380",11.3
+00BJ,Wandsworth,Domestic Buildings,"4,652",13.3
+00BK,Westminster,Domestic Buildings,"2,766",12.5
+H,London,Domestic Buildings,"138,961",8.7
+64,England,Domestic Buildings,"1,507,705",1.1
+00AA,City of London,Domestic Gardens,4,0.1
+00AB,Barking and Dagenham,Domestic Gardens,"8,457",22.8
+00AC,Barnet,Domestic Gardens,"24,343",28.1
+00AD,Bexley,Domestic Gardens,"17,894",25.1
+00AE,Brent,Domestic Gardens,"13,142",30.3
+00AF,Bromley,Domestic Gardens,"35,070",23.4
+00AG,Camden,Domestic Gardens,"4,168",19.1
+00AH,Croydon,Domestic Gardens,"28,330",32.8
+00AJ,Ealing,Domestic Gardens,"14,175",25.6
+00AK,Enfield,Domestic Gardens,"17,807",21.7
+00AL,Greenwich,Domestic Gardens,"11,116",23.2
+00AM,Hackney,Domestic Gardens,"3,530",18.5
+00AN,Hammersmith and Fulham,Domestic Gardens,"3,004",17.1
+00AP,Haringey,Domestic Gardens,"7,866",26.6
+00AQ,Harrow,Domestic Gardens,"17,521",34.7
+00AR,Havering,Domestic Gardens,"21,841",19.5
+00AS,Hillingdon,Domestic Gardens,"21,484",18.6
+00AT,Hounslow,Domestic Gardens,"12,206",21.5
+00AU,Islington,Domestic Gardens,"2,927",19.7
+00AW,Kensington and Chelsea,Domestic Gardens,"2,162",17.5
+00AX,Kingston upon Thames,Domestic Gardens,"11,507",30.9
+00AY,Lambeth,Domestic Gardens,"7,009",26
+00AZ,Lewisham,Domestic Gardens,"10,969",31.1
+00BA,Merton,Domestic Gardens,"10,194",27.2
+00BB,Newham,Domestic Gardens,"6,207",16.9
+00BC,Redbridge,Domestic Gardens,"15,507",27.4
+00BD,Richmond upon Thames,Domestic Gardens,"11,351",19.4
+00BE,Southwark,Domestic Gardens,"5,151",17.6
+00BF,Sutton,Domestic Gardens,"15,172",34.5
+00BG,Tower Hamlets,Domestic Gardens,"1,814",7.4
+00BH,Waltham Forest,Domestic Gardens,"9,470",24.4
+00BJ,Wandsworth,Domestic Gardens,"7,495",21.5
+00BK,Westminster,Domestic Gardens,"1,759",7.9
+H,London,Domestic Gardens,"380,654",23.8
+64,England,Domestic Gardens,"5,645,140",4.3
+00AA,City of London,Non Domestic Buildings,"1,255",37.5
+00AB,Barking and Dagenham,Non Domestic Buildings,"2,196",5.9
+00AC,Barnet,Non Domestic Buildings,"2,497",2.9
+00AD,Bexley,Non Domestic Buildings,"2,413",3.4
+00AE,Brent,Non Domestic Buildings,"2,974",6.9
+00AF,Bromley,Non Domestic Buildings,"2,444",1.6
+00AG,Camden,Non Domestic Buildings,"2,589",11.9
+00AH,Croydon,Non Domestic Buildings,"2,734",3.2
+00AJ,Ealing,Non Domestic Buildings,"3,513",6.3
+00AK,Enfield,Non Domestic Buildings,"2,851",3.5
+00AL,Greenwich,Non Domestic Buildings,"2,422",5.1
+00AM,Hackney,Non Domestic Buildings,"1,860",9.8
+00AN,Hammersmith and Fulham,Non Domestic Buildings,"1,748",9.9
+00AP,Haringey,Non Domestic Buildings,"1,806",6.1
+00AQ,Harrow,Non Domestic Buildings,"1,382",2.7
+00AR,Havering,Non Domestic Buildings,"2,122",1.9
+00AS,Hillingdon,Non Domestic Buildings,"4,009",3.5
+00AT,Hounslow,Non Domestic Buildings,"3,022",5.3
+00AU,Islington,Non Domestic Buildings,"1,966",13.2
+00AW,Kensington and Chelsea,Non Domestic Buildings,"1,386",11.2
+00AX,Kingston upon Thames,Non Domestic Buildings,"1,357",3.6
+00AY,Lambeth,Non Domestic Buildings,"2,226",8.2
+00AZ,Lewisham,Non Domestic Buildings,"1,764",5
+00BA,Merton,Non Domestic Buildings,"1,807",4.8
+00BB,Newham,Non Domestic Buildings,"2,605",7.1
+00BC,Redbridge,Non Domestic Buildings,"1,638",2.9
+00BD,Richmond upon Thames,Non Domestic Buildings,"1,560",2.7
+00BE,Southwark,Non Domestic Buildings,"2,850",9.8
+00BF,Sutton,Non Domestic Buildings,"1,562",3.5
+00BG,Tower Hamlets,Non Domestic Buildings,"2,801",11.3
+00BH,Waltham Forest,Non Domestic Buildings,"1,764",4.5
+00BJ,Wandsworth,Non Domestic Buildings,"2,361",6.8
+00BK,Westminster,Non Domestic Buildings,"3,839",17.3
+H,London,Non Domestic Buildings,"75,319",4.7
+64,England,Non Domestic Buildings,"868,949",0.7
+00AA,City of London,Road,797,23.8
+00AB,Barking and Dagenham,Road,"4,586",12.3
+00AC,Barnet,Road,"10,246",11.8
+00AD,Bexley,Road,"6,963",9.8
+00AE,Brent,Road,"6,562",15.1
+00AF,Bromley,Road,"10,942",7.3
+00AG,Camden,Road,"4,072",18.6
+00AH,Croydon,Road,"9,814",11.4
+00AJ,Ealing,Road,"7,853",14.2
+00AK,Enfield,Road,"8,018",9.8
+00AL,Greenwich,Road,"6,969",14.6
+00AM,Hackney,Road,"3,716",19.5
+00AN,Hammersmith and Fulham,Road,"3,069",17.5
+00AP,Haringey,Road,"4,829",16.3
+00AQ,Harrow,Road,"5,982",11.9
+00AR,Havering,Road,"8,545",7.6
+00AS,Hillingdon,Road,"10,136",8.8
+00AT,Hounslow,Road,"6,888",12.1
+00AU,Islington,Road,"3,395",22.9
+00AW,Kensington and Chelsea,Road,"2,895",23.4
+00AX,Kingston upon Thames,Road,"4,507",12.1
+00AY,Lambeth,Road,"5,281",19.6
+00AZ,Lewisham,Road,"5,883",16.7
+00BA,Merton,Road,"4,798",12.8
+00BB,Newham,Road,"5,897",16
+00BC,Redbridge,Road,"7,084",12.5
+00BD,Richmond upon Thames,Road,"5,292",9
+00BE,Southwark,Road,"5,296",18.1
+00BF,Sutton,Road,"5,178",11.8
+00BG,Tower Hamlets,Road,"4,228",17.1
+00BH,Waltham Forest,Road,"5,255",13.5
+00BJ,Wandsworth,Road,"5,711",16.4
+00BK,Westminster,Road,"5,302",23.9
+H,London,Road,"195,989",12.3
+64,England,Road,"2,949,588",2.2
+00AA,City of London,Rail,8,0.2
+00AB,Barking and Dagenham,Rail,788,2.1
+00AC,Barnet,Rail,970,1.1
+00AD,Bexley,Rail,276,0.4
+00AE,Brent,Rail,"1,342",3.1
+00AF,Bromley,Rail,801,0.5
+00AG,Camden,Rail,579,2.7
+00AH,Croydon,Rail,801,0.9
+00AJ,Ealing,Rail,"1,275",2.3
+00AK,Enfield,Rail,474,0.6
+00AL,Greenwich,Rail,241,0.5
+00AM,Hackney,Rail,141,0.7
+00AN,Hammersmith and Fulham,Rail,559,3.2
+00AP,Haringey,Rail,600,2
+00AQ,Harrow,Rail,416,0.8
+00AR,Havering,Rail,493,0.4
+00AS,Hillingdon,Rail,723,0.6
+00AT,Hounslow,Rail,362,0.6
+00AU,Islington,Rail,286,1.9
+00AW,Kensington and Chelsea,Rail,171,1.4
+00AX,Kingston upon Thames,Rail,230,0.6
+00AY,Lambeth,Rail,327,1.2
+00AZ,Lewisham,Rail,782,2.2
+00BA,Merton,Rail,383,1
+00BB,Newham,Rail,637,1.7
+00BC,Redbridge,Rail,398,0.7
+00BD,Richmond upon Thames,Rail,325,0.6
+00BE,Southwark,Rail,420,1.4
+00BF,Sutton,Rail,227,0.5
+00BG,Tower Hamlets,Rail,575,2.3
+00BH,Waltham Forest,Rail,359,0.9
+00BJ,Wandsworth,Rail,945,2.7
+00BK,Westminster,Rail,206,0.9
+H,London,Rail,"17,121",1.1
+64,England,Rail,"179,350",0.1
+00AA,City of London,Path,14,0.4
+00AB,Barking and Dagenham,Path,338,0.9
+00AC,Barnet,Path,600,0.7
+00AD,Bexley,Path,322,0.5
+00AE,Brent,Path,342,0.8
+00AF,Bromley,Path,519,0.3
+00AG,Camden,Path,304,1.4
+00AH,Croydon,Path,539,0.6
+00AJ,Ealing,Path,597,1.1
+00AK,Enfield,Path,565,0.7
+00AL,Greenwich,Path,545,1.1
+00AM,Hackney,Path,247,1.3
+00AN,Hammersmith and Fulham,Path,137,0.8
+00AP,Haringey,Path,347,1.2
+00AQ,Harrow,Path,306,0.6
+00AR,Havering,Path,409,0.4
+00AS,Hillingdon,Path,670,0.6
+00AT,Hounslow,Path,502,0.9
+00AU,Islington,Path,195,1.3
+00AW,Kensington and Chelsea,Path,185,1.5
+00AX,Kingston upon Thames,Path,222,0.6
+00AY,Lambeth,Path,314,1.2
+00AZ,Lewisham,Path,333,0.9
+00BA,Merton,Path,384,1
+00BB,Newham,Path,482,1.3
+00BC,Redbridge,Path,304,0.5
+00BD,Richmond upon Thames,Path,553,0.9
+00BE,Southwark,Path,370,1.3
+00BF,Sutton,Path,260,0.6
+00BG,Tower Hamlets,Path,234,0.9
+00BH,Waltham Forest,Path,297,0.8
+00BJ,Wandsworth,Path,394,1.1
+00BK,Westminster,Path,484,2.2
+H,London,Path,"12,312",0.8
+64,England,Path,"143,437",0.1
+00AA,City of London,Greenspace,162,4.8
+00AB,Barking and Dagenham,Greenspace,"12,477",33.6
+00AC,Barnet,Greenspace,"35,799",41.3
+00AD,Bexley,Greenspace,"22,551",31.7
+00AE,Brent,Greenspace,"9,505",21.9
+00AF,Bromley,Greenspace,"86,775",57.8
+00AG,Camden,Greenspace,"5,412",24.8
+00AH,Croydon,Greenspace,"32,037",37.1
+00AJ,Ealing,Greenspace,"17,127",30.9
+00AK,Enfield,Greenspace,"37,408",45.6
+00AL,Greenwich,Greenspace,"16,458",34.4
+00AM,Hackney,Greenspace,"4,427",23.2
+00AN,Hammersmith and Fulham,Greenspace,"3,354",19.1
+00AP,Haringey,Greenspace,"7,538",25.5
+00AQ,Harrow,Greenspace,"17,432",34.6
+00AR,Havering,Greenspace,"66,589",59.3
+00AS,Hillingdon,Greenspace,"56,899",49.2
+00AT,Hounslow,Greenspace,"22,466",39.6
+00AU,Islington,Greenspace,"1,836",12.4
+00AW,Kensington and Chelsea,Greenspace,"1,869",15.1
+00AX,Kingston upon Thames,Greenspace,"13,567",36.4
+00AY,Lambeth,Greenspace,"4,656",17.3
+00AZ,Lewisham,Greenspace,"7,928",22.5
+00BA,Merton,Greenspace,"12,973",34.6
+00BB,Newham,Greenspace,"8,785",23.9
+00BC,Redbridge,Greenspace,"22,954",40.6
+00BD,Richmond upon Thames,Greenspace,"29,721",50.8
+00BE,Southwark,Greenspace,"7,271",24.9
+00BF,Sutton,Greenspace,"14,103",32
+00BG,Tower Hamlets,Greenspace,"3,751",15.2
+00BH,Waltham Forest,Greenspace,"12,173",31.4
+00BJ,Wandsworth,Greenspace,"9,384",26.9
+00BK,Westminster,Greenspace,"4,775",21.5
+H,London,Greenspace,"610,160",38.2
+64,England,Greenspace,"115,741,625",87.5
+00AA,City of London,Water,446,13.3
+00AB,Barking and Dagenham,Water,991,2.7
+00AC,Barnet,Water,384,0.4
+00AD,Bexley,Water,"11,036",15.5
+00AE,Brent,Water,555,1.3
+00AF,Bromley,Water,450,0.3
+00AG,Camden,Water,186,0.9
+00AH,Croydon,Water,93,0.1
+00AJ,Ealing,Water,412,0.7
+00AK,Enfield,Water,"4,086",5
+00AL,Greenwich,Water,800,1.7
+00AM,Hackney,Water,416,2.2
+00AN,Hammersmith and Fulham,Water,"1,185",6.7
+00AP,Haringey,Water,222,0.8
+00AQ,Harrow,Water,186,0.4
+00AR,Havering,Water,"1,599",1.4
+00AS,Hillingdon,Water,"3,479",3
+00AT,Hounslow,Water,"1,838",3.2
+00AU,Islington,Water,40,0.3
+00AW,Kensington and Chelsea,Water,305,2.5
+00AX,Kingston upon Thames,Water,272,0.7
+00AY,Lambeth,Water,248,0.9
+00AZ,Lewisham,Water,142,0.4
+00BA,Merton,Water,277,0.7
+00BB,Newham,Water,"1,983",5.4
+00BC,Redbridge,Water,685,1.2
+00BD,Richmond upon Thames,Water,"2,671",4.6
+00BE,Southwark,Water,589,2
+00BF,Sutton,Water,226,0.5
+00BG,Tower Hamlets,Water,"5,487",22.2
+00BH,Waltham Forest,Water,"2,243",5.8
+00BJ,Wandsworth,Water,609,1.7
+00BK,Westminster,Water,"1,148",5.2
+H,London,Water,"45,288",2.8
+64,England,Water,"3,436,199",2.6
+00AA,City of London,Other land uses,407,12.2
+00AB,Barking and Dagenham,Other land uses,"4,284",11.5
+00AC,Barnet,Other land uses,"4,600",5.3
+00AD,Bexley,Other land uses,"4,698",6.6
+00AE,Brent,Other land uses,"3,875",8.9
+00AF,Bromley,Other land uses,"5,135",3.4
+00AG,Camden,Other land uses,"1,858",8.5
+00AH,Croydon,Other land uses,"4,400",5.1
+00AJ,Ealing,Other land uses,"4,928",8.9
+00AK,Enfield,Other land uses,"4,811",5.9
+00AL,Greenwich,Other land uses,"5,230",10.9
+00AM,Hackney,Other land uses,"2,205",11.6
+00AN,Hammersmith and Fulham,Other land uses,"2,010",11.4
+00AP,Haringey,Other land uses,"2,131",7.2
+00AQ,Harrow,Other land uses,"2,538",5
+00AR,Havering,Other land uses,"4,839",4.3
+00AS,Hillingdon,Other land uses,"12,436",10.8
+00AT,Hounslow,Other land uses,"5,224",9.2
+00AU,Islington,Other land uses,"1,934",13
+00AW,Kensington and Chelsea,Other land uses,"1,020",8.2
+00AX,Kingston upon Thames,Other land uses,"2,219",6
+00AY,Lambeth,Other land uses,"2,757",10.2
+00AZ,Lewisham,Other land uses,"2,897",8.2
+00BA,Merton,Other land uses,"2,936",7.8
+00BB,Newham,Other land uses,"6,100",16.6
+00BC,Redbridge,Other land uses,"2,748",4.9
+00BD,Richmond upon Thames,Other land uses,"2,975",5.1
+00BE,Southwark,Other land uses,"4,004",13.7
+00BF,Sutton,Other land uses,"3,198",7.3
+00BG,Tower Hamlets,Other land uses,"3,946",16
+00BH,Waltham Forest,Other land uses,"2,843",7.3
+00BJ,Wandsworth,Other land uses,"3,299",9.5
+00BK,Westminster,Other land uses,"1,936",8.7
+H,London,Other land uses,"120,418",7.5
+64,England,Other land uses,"1,850,205",1.4
+00AA,City of London,Unclassified land,0,0
+00AB,Barking and Dagenham,Unclassified land,0,0
+00AC,Barnet,Unclassified land,0,0
+00AD,Bexley,Unclassified land,0,0
+00AE,Brent,Unclassified land,0,0
+00AF,Bromley,Unclassified land,7,0
+00AG,Camden,Unclassified land,0,0
+00AH,Croydon,Unclassified land,12,0
+00AJ,Ealing,Unclassified land,0,0
+00AK,Enfield,Unclassified land,0,0
+00AL,Greenwich,Unclassified land,0,0
+00AM,Hackney,Unclassified land,0,0
+00AN,Hammersmith and Fulham,Unclassified land,0,0
+00AP,Haringey,Unclassified land,0,0
+00AQ,Harrow,Unclassified land,0,0
+00AR,Havering,Unclassified land,0,0
+00AS,Hillingdon,Unclassified land,0,0
+00AT,Hounslow,Unclassified land,0,0
+00AU,Islington,Unclassified land,0,0
+00AW,Kensington and Chelsea,Unclassified land,0,0
+00AX,Kingston upon Thames,Unclassified land,0,0
+00AY,Lambeth,Unclassified land,0,0
+00AZ,Lewisham,Unclassified land,0,0
+00BA,Merton,Unclassified land,0,0
+00BB,Newham,Unclassified land,0,0
+00BC,Redbridge,Unclassified land,0,0
+00BD,Richmond upon Thames,Unclassified land,0,0
+00BE,Southwark,Unclassified land,0,0
+00BF,Sutton,Unclassified land,0,0
+00BG,Tower Hamlets,Unclassified land,0,0
+00BH,Waltham Forest,Unclassified land,1,0
+00BJ,Wandsworth,Unclassified land,0,0
+00BK,Westminster,Unclassified land,0,0
+H,London,Unclassified land,20,0
+64,England,Unclassified land,"1,525",0
+00AA,City of London,All land types,"3,346",100
+00AB,Barking and Dagenham,All land types,"37,160",100
+00AC,Barnet,All land types,"86,643",100
+00AD,Bexley,All land types,"71,157",100
+00AE,Brent,All land types,"43,315",100
+00AF,Bromley,All land types,"150,184",100
+00AG,Camden,All land types,"21,834",100
+00AH,Croydon,All land types,"86,350",100
+00AJ,Ealing,All land types,"55,443",100
+00AK,Enfield,All land types,"81,995",100
+00AL,Greenwich,All land types,"47,869",100
+00AM,Hackney,All land types,"19,058",100
+00AN,Hammersmith and Fulham,All land types,"17,581",100
+00AP,Haringey,All land types,"29,556",100
+00AQ,Harrow,All land types,"50,434",100
+00AR,Havering,All land types,"112,245",100
+00AS,Hillingdon,All land types,"115,576",100
+00AT,Hounslow,All land types,"56,707",100
+00AU,Islington,All land types,"14,838",100
+00AW,Kensington and Chelsea,All land types,"12,367",100
+00AX,Kingston upon Thames,All land types,"37,237",100
+00AY,Lambeth,All land types,"26,981",100
+00AZ,Lewisham,All land types,"35,219",100
+00BA,Merton,All land types,"37,518",100
+00BB,Newham,All land types,"36,816",100
+00BC,Redbridge,All land types,"56,525",100
+00BD,Richmond upon Thames,All land types,"58,553",100
+00BE,Southwark,All land types,"29,202",100
+00BF,Sutton,All land types,"44,010",100
+00BG,Tower Hamlets,All land types,"24,677",100
+00BH,Waltham Forest,All land types,"38,783",100
+00BJ,Wandsworth,All land types,"34,851",100
+00BK,Westminster,All land types,"22,216",100
+H,London,All land types,"1,596,244",100
+64,England,All land types,"132,323,722",100
+00AA,City of London,Admin geography,"3,151",94.2
+00AB,Barking and Dagenham,Admin geography,"37,779",101.7
+00AC,Barnet,Admin geography,"86,736",100.1
+00AD,Bexley,Admin geography,"64,263",90.3
+00AE,Brent,Admin geography,"43,235",99.8
+00AF,Bromley,Admin geography,"150,145",100
+00AG,Camden,Admin geography,"21,796",99.8
+00AH,Croydon,Admin geography,"86,519",100.2
+00AJ,Ealing,Admin geography,"55,528",100.2
+00AK,Enfield,Admin geography,"82,201",100.3
+00AL,Greenwich,Admin geography,"50,380",105.2
+00AM,Hackney,Admin geography,"19,064",100
+00AN,Hammersmith and Fulham,Admin geography,"17,161",97.6
+00AP,Haringey,Admin geography,"29,587",100.1
+00AQ,Harrow,Admin geography,"50,469",100.1
+00AR,Havering,Admin geography,"114,469",102
+00AS,Hillingdon,Admin geography,"115,699",100.1
+00AT,Hounslow,Admin geography,"56,593",99.8
+00AU,Islington,Admin geography,"14,860",100.1
+00AW,Kensington and Chelsea,Admin geography,"12,389",100.2
+00AX,Kingston upon Thames,Admin geography,"37,247",100
+00AY,Lambeth,Admin geography,"27,253",101
+00AZ,Lewisham,Admin geography,"35,323",100.3
+00BA,Merton,Admin geography,"37,609",100.2
+00BB,Newham,Admin geography,"38,676",105.1
+00BC,Redbridge,Admin geography,"56,436",99.8
+00BD,Richmond upon Thames,Admin geography,"58,768",100.4
+00BE,Southwark,Admin geography,"29,897",102.4
+00BF,Sutton,Admin geography,"43,851",99.6
+00BG,Tower Hamlets,Admin geography,"21,566",87.4
+00BH,Waltham Forest,Admin geography,"38,815",100.1
+00BJ,Wandsworth,Admin geography,"35,220",101.1
+00BK,Westminster,Admin geography,"22,030",99.2
+H,London,Admin geography,"1,594,719",99.9
+64,England,Admin geography,"133,037,283",100.5
