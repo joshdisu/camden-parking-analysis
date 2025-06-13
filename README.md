@@ -25,9 +25,13 @@ This repository contains geospatial data, analysis, and interactive dashboards f
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run notebooks or dashboard scripts.
 
-## Data Schema
+# Camden Parking GeoPackage Schema
 
-See [docs/data_schema.md](docs/data_schema.md) for details on the GeoPackage schema.
+## Tables
+
+- **parking_bays**: Contains parking bay locations, attributes, and model outputs.
+  - Fields: `Parking Spaces`, `Restriction Type`, `Times Of Operation`, `Maximum Stay`, `Tariff`, `Road Name`, `Postcode`, `Controlled Parking Zone`, `Valid Parking Permits`, `Parking Bay Length Metres`, `Easting`, `Northing`, `Longitude`, `Latitude`, `geometry`, etc.
+- **roads**: road network features.
 
 ## License
 
